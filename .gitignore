@@ -10,3 +10,7 @@
 /app/app-release.apk
 /app/src/debug
 /app/src/release
+/gradle
+/gradlew
+/gradlew.bat
+/.idea
