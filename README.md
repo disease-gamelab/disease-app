@@ -12,9 +12,6 @@ Change SERVER_STAGING and SERVER_PRODUCTION in app/src/main/java/de/tr0llhoehle/
 to the url of your server.
 
 Change the google maps API key in app/src/main/AndroidManifest.xml
-from YOUR_GOOGLE_API_KEY to youy API key
-
-Also probabyl change the google maps API key in gradle.properties
-from YOUR_GOOGLE_MAPS_API_KEY to your API key
+from YOUR_GOOGLE_API_KEY to your API key
 
 Now you should be able to run the app
